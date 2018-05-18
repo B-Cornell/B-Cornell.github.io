@@ -409,6 +409,7 @@ input:-webkit-autofill:focus {
 
 .text-center.page-title .title:before,
 .page-title .title:after {
+    text-align: center;
     content: '';
     width: 50px;
     height: 1px;
