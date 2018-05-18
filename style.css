@@ -83,15 +83,22 @@ h6 {
 
 h1 {
     font-size: 60px;
+    text-align: right;
 }
 
 h2 {
     font-size: 50px;
+    text-align: center;
 }
 
 h3 {
     font-size: 32px;
+    text-align: center;
 }
+
+h5{
+    text-align: right;
+  }
 
 html,
 body {
